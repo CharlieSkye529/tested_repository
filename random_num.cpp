@@ -15,7 +15,7 @@ int main ()
    for( i = 0; i < 10; i++ )
    {
       // 生成实际的随机数
-      j= rand();
+      int j=0l
       cout <<"random number:"<< j << endl;
    }
  
